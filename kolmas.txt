@@ -1,1 +1,2 @@
 Tämä on kolmannen tiedoston tekstiä.
+Tähän on lisätty toiseen kertaan tekstiä.
